@@ -1,0 +1,14 @@
+name=README.md url=https://github.com/jackjackmaybe-jpg/Ranchero-0.1/blob/main/README.md
+# Ranchero
+
+Initial project skeleton for Ranchero — a 2D farming + roguelite prototype built with Python and pygame-ce.
+
+Run:
+
+1. Create and activate a Python 3.10+ virtualenv
+2. pip install -r requirements.txt
+3. python -m ranchero.main
+
+This commit provides a working starter: splash screen, cinematic title, main menu (Play / Options / Quit), options to swap Q/E and mouse buttons saved to config, 3 save slots, basic top-down player with camera, hotbar UI, and a day/night timer framework.
+
+License: MIT
